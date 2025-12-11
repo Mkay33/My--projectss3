@@ -153,9 +153,6 @@ CREATE TABLE users (
 <img width="1349" height="108" alt="image" src="https://github.com/user-attachments/assets/1d5d9f9d-8298-426b-bacf-116343a4339c" />
 <img width="1152" height="228" alt="image" src="https://github.com/user-attachments/assets/2bf6c88a-1da3-443c-a5bc-2e65520707db" />
 
-<img width="999" height="147" alt="image" src="https://github.com/user-attachments/assets/fe6c69c5-faef-44f7-9750-2deb0e4bdeb5" />
-
-
 🔒 6. Backup Strategies in RDS
 <img width="1592" height="616" alt="image" src="https://github.com/user-attachments/assets/e70e25b7-fe3c-4af0-b37c-712e51e62b4e" />
 
