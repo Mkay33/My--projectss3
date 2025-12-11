@@ -251,5 +251,6 @@ http://127.0.0.1:5000/users
 
 
 Retrieve users:
+<img width="999" height="147" alt="image" src="https://github.com/user-attachments/assets/fe5501d8-d102-4baf-8938-c4bc5e3a839f" />
 
 curl http://127.0.0.1:5000/users
